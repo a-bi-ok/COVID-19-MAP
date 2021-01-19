@@ -1,3 +1,8 @@
+
+# PREVIEW
+
+![Covid-Map Diagram](Covid-Map.png)
+
 # MET CS665 - # MET CS665 - Project
 
 https://github.com/metcs/met-cs665-assignment-project-a-bi-ok.git
@@ -40,7 +45,7 @@ There are no required pre-conditions.
 
 The application's primary implementation goal is system resource optimization used in the MapPointFeature.java class. Another pattern captured in the implementation is a Facade design pattern designed into the MapConfiguration.java class, allowing the system to hide away lot of complexity from the user while actively facilitating the generation of the map's layers. The implemented design patterns together with the other OOP concepts give the application simplicity, flexibility, reliability, durability and re-usability.
 
-Durability - is in the program's ability to implement encapsulation and using appropriate visibility modifiers like the usse of the static modifier for the ResponseEntity<String> result field to share information across classes.
+Durability - is in the program's ability to implement encapsulation and using appropriate visibility modifiers like the use of the static modifier for the ResponseEntity<String> result field to share information across classes.
 
 Reliability - is in the ability of the program to run without any signs of defects.
 
